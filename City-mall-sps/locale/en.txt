@@ -1,0 +1,63 @@
+#: locale=en
+
+## Action
+
+### URL
+LinkBehaviour_2D15CB0A_2396_E8F5_41C0_9A1FC8498621.source = https://citymall.net/comercial/sps
+LinkBehaviour_2D437662_2391_B935_41AD_329B3942BF7F.source = https://www.miravtours.com/
+
+## Media
+
+### Floorplan
+
+### Image
+imlevel_39EDD616_2471_991D_41AC_57B71F0EB2C2.url = media/map_36D53074_238E_791D_41B7_6AB622E00F15_en_0.webp
+imlevel_39EDB616_2471_991D_41A7_B1A45522D656.url = media/map_36D53074_238E_791D_41B7_6AB622E00F15_en_1.webp
+imlevel_39ED8616_2471_991D_41AE_021CD4001573.url = media/map_36D53074_238E_791D_41B7_6AB622E00F15_en_2.webp
+imlevel_39ED9616_2471_991D_41AF_DEB13ABA9FDB.url = media/map_36D53074_238E_791D_41B7_6AB622E00F15_en_3.webp
+imlevel_39F26616_2471_991D_4197_4D02400D1048.url = media/map_36D53074_238E_791D_41B7_6AB622E00F15_en_4.webp
+
+### Title
+panorama_288D9CB7_2393_A91B_41B4_8EE307C7401B.label = 10
+panorama_288D770B_2393_B8F4_4198_352F845EA27B.label = 11
+panorama_288D8197_2393_9B1C_41BF_B25783B802FA.label = 12
+panorama_288D7AFD_2392_E90C_41BF_F96F33A194AF.label = 2
+panorama_288B65CB_2392_9B0B_41B1_B1346EB7818D.label = 3
+panorama_288CC026_2392_B93C_41AE_898514A9968B.label = 4
+panorama_288B3A64_2392_A93D_41BD_82F43F5FE4D4.label = 5
+panorama_288CC4BE_2392_990D_41B5_1997288D1AA5.label = 6
+panorama_288B1ED5_2392_691F_419E_B468B600FDEC.label = 7
+panorama_288C9940_2392_6B75_41C1_03D3B39ECEE5.label = 8
+panorama_288D2303_2393_98FB_41B6_55D529A1061F.label = 9
+photo_38275C28_2392_A935_41BB_95EF59E0F212.label = DE TODO
+photo_3F5B7431_2391_9917_41BC_F7CAF634C8DC.label = ESPRESSO
+map_36D53074_238E_791D_41B7_6AB622E00F15.label = Entrada Principal City Mall
+photo_3C82EDB5_2392_AB1F_41C1_B1AAFA3B3E10.label = PACER
+photo_3FCDE51C_2396_FB0D_41A4_F669EF2456B3.label = PULL AND BEAR
+photo_397F2D88_23B2_ABF5_41B5_B7AA10C30F19.label = STRADIVARIUS
+
+## Popup
+
+### Body
+htmlText_3E99432F_2397_9F0B_41BB_CA9CC7218337.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>De Todo</B><BR/><BR/></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Horario: <BR/>Lunes a Domingo de 9:00 am a 8:00 pm</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Telefonos: 3390-2567</SPAN></DIV></BODY></HTML></div>
+htmlText_3F4D00D5_2396_791F_4196_AA96514EBBED.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>ESPRESSO AMERICANO</B></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Horario: <BR/>Lunes a Domingo de 10:00 am a 8:00 pm</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Telefonos: Sin Teléfono</SPAN></DIV></BODY></HTML></div>
+htmlText_3DC8B898_2392_A915_41BA_DC0CBDE9B649.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>Pacer Store</B></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Horario: </SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Lunes a Sábado 10:00 am a 8:00 pm y Domingos de 10:00 am a 7:00 pm</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Telefonos: 3192-4257</SPAN></DIV></BODY></HTML></div>
+htmlText_3EEB26D2_2391_9915_41BE_67AB771C0C05.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>Pull&amp;Bear</B><BR/><BR/></SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Horario:<BR/><BR/>Lunes a Sábado 10:00 am a 8:00 pm Domingos de 10:00 am a 7:00 pm</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Telefonos: 9440-2185</SPAN></DIV></BODY></HTML></div>
+htmlText_38E52E67_23B2_693B_41BC_2C55058F5D20.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>STRADIVARIUS</B></SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Horario: </SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Lunes a Sábado 10:00 am a 8:00 pm Domingos de 10:00 am a 7:00 pm</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Telefonos: 9440-2192</SPAN></DIV></BODY></HTML></div>
+
+## Skin
+
+### Image
+Image_2CDE4370_2397_9F15_41A9_EDF73826A387.url = skin/Image_2CDE4370_2397_9F15_41A9_EDF73826A387_en.png
+Image_2D6A8ED1_2393_A917_41BB_5A2714BAD23D.url = skin/Image_2D6A8ED1_2393_A917_41BB_5A2714BAD23D_en.png
+
+### Tooltip
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+
+## Tour
+
+### Description
+
+### Title
+tour.name = City Mall SPS
